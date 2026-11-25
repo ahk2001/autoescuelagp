@@ -16,7 +16,7 @@
 * **Subtítulo Institucional (baseado no site atual):** *"Autoescuela GP es un centro de enseñanza de la conducción situado en Albacete, creado para ofrecer un servicio completo adaptado a cada alumno."*
 
 ### Canais de Contato
-* **WhatsApp Principal (de `dados.txt`):** `+34 634 44 58 75` (`https://wa.me/34634445875`)
+* **WhatsApp Principal (de `dados.txt`):** `+34 609 89 10 05` (`https://wa.me/34609891005`)
 * **WhatsApp Secundário (informado no site oficial / Maxi Trail GP):** `+34 609 89 10 05` `[CONFIRMAR COM O CLIENTE QUAL NÚMERO PRIORIZAR NO BOTÃO FLUTUANTE]`
 * **Telefone Fixo:** `+34 967 50 93 74`
 * **E-mail Oficial:** `gp@autoescuelagp.com`
@@ -156,27 +156,27 @@
 
 ## 7. 📲 ARQUITETURA DE CONVERSÃO & LINKS DE WHATSAPP
 
-Todos os links abaixo utilizam o WhatsApp principal informado em `dados.txt` (`+34 634 44 58 75`) com mensagens pré-configuradas em **Espanhol da Espanha (Castellano)**:
+Todos os links abaixo utilizam o WhatsApp principal informado em `dados.txt` (`+34 609 89 10 05`) com mensagens pré-configuradas em **Espanhol da Espanha (Castellano)**:
 
 1. **Matrícula Geral / Permiso B (Coche):**
    * **Texto:** `¡Hola! Me gustaría recibir información sobre precios, horarios y matrícula para el Permiso B en Autoescuela GP Albacete.`
-   * **Link:** `https://wa.me/34634445875?text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n%20sobre%20precios%2C%20horarios%20y%20matr%C3%ADcula%20para%20el%20Permiso%20B%20en%20Autoescuela%20GP%20Albacete.`
+   * **Link:** `https://wa.me/34609891005?text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20recibir%20informaci%C3%B3n%20sobre%20precios%2C%20horarios%20y%20matr%C3%ADcula%20para%20el%20Permiso%20B%20en%20Autoescuela%20GP%20Albacete.`
 
 2. **Permisos de Moto (AM / A1 / A2 / A) & Cursos Maxi Trail GP:**
    * **Texto:** `¡Hola! Quiero informarme sobre los permisos de moto (AM, A1, A2, A) o los cursos de conducción en Autoescuela GP.`
-   * **Link:** `https://wa.me/34634445875?text=%C2%A1Hola!%20Quiero%20informarme%20sobre%20los%20permisos%20de%20moto%20(AM%2C%20A1%2C%20A2%2C%20A)%20o%20los%20cursos%20de%20conducci%C3%B3n%20en%20Autoescuela%20GP.`
+   * **Link:** `https://wa.me/34609891005?text=%C2%A1Hola!%20Quiero%20informarme%20sobre%20los%20permisos%20de%20moto%20(AM%2C%20A1%2C%20A2%2C%20A)%20o%20los%20cursos%20de%20conducci%C3%B3n%20en%20Autoescuela%20GP.`
 
 3. **Cursos Profissionais (CAP / Camión C / Tráiler C+E / Autobús D):**
    * **Texto:** `¡Hola! Necesito información sobre los permisos profesionales (C, C+E, D) y cursos CAP en Autoescuela GP.`
-   * **Link:** `https://wa.me/34634445875?text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20sobre%20los%20permisos%20profesionales%20(C%2C%20C%2BE%2C%20D)%20y%20cursos%20CAP%20en%20Autoescuela%20GP.`
+   * **Link:** `https://wa.me/34609891005?text=%C2%A1Hola!%20Necesito%20informaci%C3%B3n%20sobre%20los%20permisos%20profesionales%20(C%2C%20C%2BE%2C%20D)%20y%20cursos%20CAP%20en%20Autoescuela%20GP.`
 
 4. **Aulas Práticas de Reciclagem / Superação de Amaxofobia:**
    * **Texto:** `¡Hola! Ya tengo el carné pero me gustaría consultar por clases de reciclaje o apoyo para perder el miedo a conducir.`
-   * **Link:** `https://wa.me/34634445875?text=%C2%A1Hola!%20Ya%20tengo%20el%20carn%C3%A9%20pero%20me%20gustar%C3%ADa%20consultar%20por%20clases%20de%20reciclaje%20o%20apoyo%20para%20perder%20el%20miedo%20a%20conducir.`
+   * **Link:** `https://wa.me/34609891005?text=%C2%A1Hola!%20Ya%20tengo%20el%20carn%C3%A9%20pero%20me%20gustar%C3%ADa%20consultar%20por%20clases%20de%20reciclaje%20o%20apoyo%20para%20perder%20el%20miedo%20a%20conducir.`
 
 5. **Consulta sobre Recuperación de Puntos DGT (caso o cliente confirme oferta/parceria):**
    * **Texto:** `¡Hola! Quisiera consultar información y próximas fechas sobre recuperación de puntos DGT en Albacete.`
-   * **Link:** `https://wa.me/34634445875?text=%C2%A1Hola!%20Quisiera%20consultar%20informaci%C3%B3n%20y%20pr%C3%B3ximas%20fechas%20sobre%20recuperaci%C3%B3n%20de%20puntos%20DGT%20en%20Albacete.`
+   * **Link:** `https://wa.me/34609891005?text=%C2%A1Hola!%20Quisiera%20consultar%20informaci%C3%B3n%20y%20pr%C3%B3ximas%20fechas%20sobre%20recuperaci%C3%B3n%20de%20puntos%20DGT%20en%20Albacete.`
 
 ---
 
@@ -187,7 +187,7 @@ Todos os links abaixo utilizam o WhatsApp principal informado em `dados.txt` (`+
 > **Diferenciais reais para destacar:** Mais de 10 anos de trajetória em Albacete (desde 2013/2014), referência local em duas rodas (*Maxi Trail GP*), atendimento humano liderado por Gerardo Paños, cursos intensivos de teórica sem custo adicional, plataforma AEOL (testes e vídeos) e atendimento especializado para *amaxofobia* e *reciclaje*.
 
 ### Arquitetura de Seções Recomendada (Ordem de Alta Conversão)
-1. **Header Fixo (Dark `#111111`):** `assets/logo.png` à esquerda + menu limpo (*Permisos*, *Profesionales*, *Motos & Trail*, *Amaxofobia*, *Contacto*) + botão CTA verde de WhatsApp (`634 44 58 75`).
+1. **Header Fixo (Dark `#111111`):** `assets/logo.png` à esquerda + menu limpo (*Permisos*, *Profesionales*, *Motos & Trail*, *Amaxofobia*, *Contacto*) + botão CTA verde de WhatsApp (`609 89 10 05`).
 2. **Hero Full-Screen com Vídeo Background:** `assets/homedesktop.mp4` (desktop) e `assets/homemobile.mp4` (mobile) com overlay escuro, H1 de alto impacto, selo de avaliação 4.8★+ e dois CTAs: *"Quiero Matricularme (WhatsApp)"* e *"Ver Permisos"*.
 3. **Barra de Credibilidade & Acesso Rápido do Aluno:** Links diretos para *Test On-Line AEOL*, *Vídeos de Prácticas* e *Consulta de Notas DGT* (funcionalidade muito valorizada pelos alunos atuais).
 4. **Grid de Permisos Particulares:** Cards para **Permiso B**, **Motos (AM, A1, A2, A)** e **Remolques (B+E / B-96)** com idade mínima, requisitos resumidos e botão WhatsApp específico.
