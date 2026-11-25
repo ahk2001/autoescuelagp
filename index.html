@@ -2828,6 +2828,35 @@
       height: 260px;
       object-fit: cover;
     }
+
+    /* Background da dobra Formación Especializada / Maxi Trail GP */
+    .prof-editorial-section {
+      position: relative;
+      overflow: hidden;
+    }
+    .prof-bg-stage {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+    }
+    .prof-bg-stage img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 42%;
+      opacity: 0.28;
+      filter: contrast(1.08) saturate(1.05);
+    }
+    .prof-bg-vignette {
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+      pointer-events: none;
+      background:
+        linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0.52) 28%, rgba(0, 0, 0, 0.58) 72%, #000000 100%),
+        radial-gradient(circle at 50% 45%, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.85) 100%);
+    }
   </style>
 
 </head>
@@ -3105,6 +3134,10 @@
 
     <!-- ESPECIALIDADES: CAP, AMAXOFOBIA, RECICLAJE, MAXI TRAIL GP -->
     <section class="section-editorial-padding prof-editorial-section" id="profesional">
+      <div class="prof-bg-stage" aria-hidden="true">
+        <img src="assets/maxitrail-bg.jpg" alt="" loading="lazy" />
+      </div>
+      <div class="prof-bg-vignette" aria-hidden="true"></div>
       <div class="container" style="position: relative; z-index: 2;">
         <div class="section-editorial-header reveal-on-scroll">
           <span class="section-editorial-index">FORMACIÓN ESPECIALIZADA</span>
@@ -3169,7 +3202,7 @@
             </div>
             <div class="prof-card-footer">
               <span class="prof-meta-note">Máx. 10 alumnos · Reserva 50 €</span>
-              <a href="https://maxitrailalbacete.com/cursos/" target="_blank" rel="noopener noreferrer" class="btn-editorial btn-blue">Ver Cursos ↗</a>
+              <a href="https://wa.me/34609891005?text=%C2%A1Hola!%20Quiero%20informaci%C3%B3n%20e%20inscripci%C3%B3n%20para%20los%20cursos%20Maxi%20Trail%20GP%20en%20Albacete." target="_blank" rel="noopener noreferrer" class="btn-editorial btn-blue">Consultar Cursos</a>
             </div>
           </div>
         </div>
