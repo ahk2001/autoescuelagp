@@ -2845,8 +2845,8 @@
       height: 100%;
       object-fit: cover;
       object-position: center 42%;
-      opacity: 0.28;
-      filter: contrast(1.08) saturate(1.05);
+      opacity: 0.62;
+      filter: contrast(1.06) saturate(1.1);
     }
     .prof-bg-vignette {
       position: absolute;
@@ -2854,8 +2854,21 @@
       z-index: 1;
       pointer-events: none;
       background:
-        linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0.52) 28%, rgba(0, 0, 0, 0.58) 72%, #000000 100%),
-        radial-gradient(circle at 50% 45%, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.85) 100%);
+        linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0.28) 22%, rgba(0, 0, 0, 0.34) 78%, #000000 100%),
+        radial-gradient(circle at 50% 45%, rgba(0, 0, 0, 0.12) 0%, rgba(0, 0, 0, 0.65) 100%);
+    }
+    .prof-editorial-section .prof-editorial-card,
+    .prof-editorial-section .team-member-card {
+      background: rgba(10, 10, 14, 0.48) !important;
+      backdrop-filter: blur(16px) saturate(140%);
+      -webkit-backdrop-filter: blur(16px) saturate(140%);
+      border: 1px solid rgba(255, 255, 255, 0.16) !important;
+      box-shadow: 0 12px 36px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.12);
+    }
+    .prof-editorial-section .prof-editorial-card:hover,
+    .prof-editorial-section .team-member-card:hover {
+      background: rgba(16, 16, 22, 0.62) !important;
+      border-color: rgba(253, 1, 1, 0.5) !important;
     }
   </style>
 
